@@ -1,16 +1,18 @@
 # RatingView 1.0
 
+```java
 //Indentation from the edge
-setPadding(10);
+ratingview.setPadding(10);
 
 //Line thickness
-setLine(10);
+ratingview.setLine(10);
 
 //Round lines
-setRound(10);
+ratingview.setRound(10);
 
 //Background color
-setBackgroundColor(0x00000000);
+ratingview.setBackgroundColor(0x00000000);
 
 //Text color
-setTextColor(0xffffffff);
+ratingview.setTextColor(0xffffffff);
+```
