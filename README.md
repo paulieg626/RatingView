@@ -15,4 +15,7 @@ ratingview.setBackgroundColor(0x00000000);
 
 //Text color
 ratingview.setTextColor(0xffffffff);
+
+//Rating (one,two,three,four,five)
+ratingview.setNumber(505000,10000,7656,300060,4000000);
 ```
