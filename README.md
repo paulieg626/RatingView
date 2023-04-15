@@ -1,5 +1,7 @@
 # RatingView 1.0
 
+![Image](https://raw.githubusercontent.com/paulieg626/RatingView/main/image.jpg)
+
 ```java
 //Indentation from the edge
 ratingview.setPadding(10);
