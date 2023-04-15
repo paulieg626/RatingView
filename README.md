@@ -3,8 +3,18 @@
 Image:
 ![Image](https://raw.githubusercontent.com/paulieg626/RatingView/main/image.jpg)
 
+XML:
+```xml
+<package.RatingView
+ android:id="@+id/ratingview"
+ android:layout_width="286dp"
+ android:layout_height="103dp"/>
+```
+
 Java code:
 ```java
+RatingView rating = ...;
+
 //Indentation from the edge
 ratingview.setPadding(10);
 
