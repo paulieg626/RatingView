@@ -13,7 +13,7 @@ XML:
 
 Java code:
 ```java
-RatingView rating = ...;
+RatingView ratingview = ...;
 
 //Indentation from the edge
 ratingview.setPadding(10);
